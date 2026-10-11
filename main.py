@@ -1,5 +1,5 @@
-name = input("Enter your name:")
-if name == " ":
-    print("You did not enter a name.")
+name = input("Enter Your Name:")
+if name == "":
+	print("Enter Name")
 else:
-    print("Hello, " + name + "!")
+	print("Thank You For your name")
